@@ -20,6 +20,7 @@ namespace HelloWorld
             Console.WriteLine("Earth is mine");
             Console.WriteLine("Luna is mine");
             Console.WriteLine("Earth on Local repository");
+            Console.WriteLine("새로작업");
         }
     }
 }
