@@ -22,6 +22,7 @@ namespace HelloWorld
             Console.WriteLine("World on GitHub");
             Console.WriteLine("Earth on Local repository");
             Console.WriteLine("revert test");
+            Console.WriteLine("revert test2");
         }
     }
 }
