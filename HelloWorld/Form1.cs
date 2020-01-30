@@ -24,6 +24,7 @@ namespace HelloWorld
             Console.WriteLine("revert test");
             Console.WriteLine("revert test2");
             Console.WriteLine("Earth on Local repository11");
+            Console.WriteLine("Earth on Local repository12");
         }
     }
 }
